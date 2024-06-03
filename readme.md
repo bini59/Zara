@@ -6,8 +6,8 @@ github : https://github.com/bini59/Zara
 
 ### 팀원 정보 및 메일
 
-임유빈 : 
-이근탁
+- 임유빈 : bean0234@kumoh.ac.kr
+- 이근탁 : 
 
 ### 특이사항
 
