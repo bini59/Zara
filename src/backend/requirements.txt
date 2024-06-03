@@ -1,0 +1,4 @@
+fastapi==0.110.2
+scapy==2.5.0
+SQLAlchemy==2.0.30
+uvicorn==0.29.0
