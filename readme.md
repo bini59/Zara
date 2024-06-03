@@ -2,7 +2,7 @@
 
 ### 깃허브
 
-github : 
+github : https://github.com/bini59/Zara
 
 ### 팀원 정보 및 메일
 
