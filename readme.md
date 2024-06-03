@@ -15,37 +15,37 @@ github : https://github.com/bini59/Zara
 
 - backend library
 
-'''bash
+```bash
 pip install -r ./backend/requirements.txt
-'''
+```
 
 - mac address library
 
-'''bash
+```bash
 pip install redis schedule
-'''
+```
 
 - frontend package
 
-'''bash
+```bash
 cd src/frontend
 npm install
-'''
+```
 
 #### 각 파트별 실행
 
 - backend
-'''
+```
 ./run.bat
-'''
+```
 
 - mac address
-'''
+```
 
-'''
+```
 
 - frontend
-'''
+```
 cd src/frontend
 npm start
-'''
+```
