@@ -36,11 +36,13 @@ npm install
 
 - backend
 ```
-./run.bat
+./run.sh
 ```
 
 - mac address
 ```
+cd src/mac
+./run.sh
 
 ```
 
